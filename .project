@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C%%Users%HP%Katalon Studio%SampleTestAPI%SampleTestAPI.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-2070456234297346251.groovy</name>
+			<type>1</type>
+			<location>C:/Users/HP/AppData/Local/Temp/Katalon/Web Services/kat-2070456234297346251.groovy</location>
+		</link>
+		<link>
+			<name>kat-2117193105080838476.groovy</name>
+			<type>1</type>
+			<location>C:/Users/HP/AppData/Local/Temp/Katalon/Web Services/kat-2117193105080838476.groovy</location>
+		</link>
+		<link>
+			<name>kat-2261970184943956637.groovy</name>
+			<type>1</type>
+			<location>C:/Users/HP/AppData/Local/Temp/Katalon/Web Services/kat-2261970184943956637.groovy</location>
+		</link>
+		<link>
+			<name>kat-3438176891821899171.groovy</name>
+			<type>1</type>
+			<location>C:/Users/HP/AppData/Local/Temp/Katalon/Web Services/kat-3438176891821899171.groovy</location>
+		</link>
+		<link>
+			<name>kat-4568307023976343956.groovy</name>
+			<type>1</type>
+			<location>C:/Users/HP/AppData/Local/Temp/Katalon/Web Services/kat-4568307023976343956.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1558597832131</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1558597832146</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
